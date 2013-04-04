@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2012.2.22)  12 FEB 2013 12:44
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2012.2.22)  26 MAR 2013 14:16
 entering extended mode
-**C:/Users/Owner/Google*Drive/Spring*2013/BME*391/LATEX*Handouts/ADC*Handout.te
-x
+**C:/Users/Owner/Google*Drive/Spring*2013/BME*391/Will_LATEX_Handouts/ADC*Hando
+ut.tex
 
-("C:/Users/Owner/Google Drive/Spring 2013/BME 391/LATEX Handouts/ADC Handout.te
-x"
+("C:/Users/Owner/Google Drive/Spring 2013/BME 391/Will_LATEX_Handouts/ADC Hando
+ut.tex"
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -294,8 +294,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip55
 )
-("C:\Users\Owner\Google Drive\Spring 2013\BME 391\LATEX Handouts\ADC Handout.au
-x")
+("C:\Users\Owner\Google Drive\Spring 2013\BME 391\Will_LATEX_Handouts\ADC Hando
+ut.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
@@ -345,10 +345,10 @@ LaTeX Info: Redefining \ref on input line 28.
 LaTeX Info: Redefining \pageref on input line 28.
 LaTeX Info: Redefining \nameref on input line 28.
 
-("C:\Users\Owner\Google Drive\Spring 2013\BME 391\LATEX Handouts\ADC Handout.ou
-t")
-("C:\Users\Owner\Google Drive\Spring 2013\BME 391\LATEX Handouts\ADC Handout.ou
-t")
+("C:\Users\Owner\Google Drive\Spring 2013\BME 391\Will_LATEX_Handouts\ADC Hando
+ut.out")
+("C:\Users\Owner\Google Drive\Spring 2013\BME 391\Will_LATEX_Handouts\ADC Hando
+ut.out")
 \@outlinefile=\write3
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 30.
@@ -387,23 +387,24 @@ Missing character: There is no µ in font pplr7t!
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
  [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
- <C:/Users/Owner/Google Drive/Spring 2013/BME 391/LATEX Handouts/ADC_1.png>]
+ <C:/Users/Owner/Google Drive/Spring 2013/BME 391/Will_LATEX_Handouts/ADC_1.png
+>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
 
-("C:\Users\Owner\Google Drive\Spring 2013\BME 391\LATEX Handouts\ADC Handout.au
-x")
+("C:\Users\Owner\Google Drive\Spring 2013\BME 391\Will_LATEX_Handouts\ADC Hando
+ut.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
 Package rerunfilecheck Info: File `ADC*Handout.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
  ) 
 Here is how much of TeX's memory you used:
  5787 strings out of 494053
- 83972 string characters out of 3146185
+ 84027 string characters out of 3146185
  166172 words of memory out of 3000000
  8990 multiletter control sequences out of 15000+200000
  8563 words of font info for 24 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 31i,10n,43p,1234b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 31i,10n,43p,1239b,324s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Program Files 
 (x86)/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb>
